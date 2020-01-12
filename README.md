@@ -37,6 +37,6 @@ like, and dislike articles,
 ## Make search functionality is more convenient.
 ## Imporove like and dislike functionality now has been improved.
 
-##this way i compleate my whole project,
-##I give thanks for my teacher who give me this project because this project teach me many thing it also helpfull in future 
-##in my job sector.
+this way i compleate my whole project,
+I give thanks for my teacher who give me this project because this project teach me many thing it also helpfull in future 
+in my job sector.
